@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\POC\\Git\\Parent\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
-      "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Work\\POC\\Git\\Parent\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\schoub01\\source\\repos\\DVT-parent\\Parent\\ClassLibrary1\\ClassLibrary1\\Parent.csproj",
+      "projectName": "Parent",
+      "projectPath": "C:\\Users\\schoub01\\source\\repos\\DVT-parent\\Parent\\ClassLibrary1\\ClassLibrary1\\Parent.csproj",
       "packagesPath": "C:\\Users\\schoub01\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\POC\\Git\\Parent\\ClassLibrary1\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\schoub01\\source\\repos\\DVT-parent\\Parent\\ClassLibrary1\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
